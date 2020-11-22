@@ -68,19 +68,19 @@ def run():
             lb7=Label(objc,text='1.NAME  ',font=('arial',16,'bold'),fg='blue',bg='black')
             lb7.place(x=30,y=170)
             
-            lb71=Label(objc,text='Deepak Singh ',font=('arial',16,'bold'),fg='grey',bg='black')
+            lb71=Label(objc,text='Abhishek Negi Akshat Badhani Aman Singh ',font=('arial',16,'bold'),fg='grey',bg='black')
             lb71.place(x=30,y=230)
 
             lb72=Label(objc,text='DESGINATION :-  ',font=('arial',16,'italic'),fg='grey',bg='black')
             lb72.place(x=30,y=290)
             
-            lb73=Label(objc,text='Python Developer/ML Expert/DS Expert< DEHRADUN ',font=('arial',16,'italic'),fg='grey',bg='black')
+            lb73=Label(objc,text='Python Developer< DEHRADUN ',font=('arial',16,'italic'),fg='grey',bg='black')
             lb73.place(x=30,y=350)
             
             lb74=Label(objc,text='EMAIL ID',font=('arial',16,'bold'),fg='blue',bg='black')
             lb74.place(x=30,y=410)
             
-            lb75=Label(objc,text='singhdsdeepak393@gmail.com, facebook id - deepak singh ',font=('arial',16,'italic'),fg='grey',bg='black')
+            lb75=Label(objc,text='badhaniakshat@hotmail.co.in ',font=('arial',16,'italic'),fg='grey',bg='black')
             lb75.place(x=30,y=470)
                 
             lb772=Button(objc,text='back',font=('arial',16,'bold'),fg='cyan',bg='black',command=backma)
@@ -412,7 +412,7 @@ def run():
         lb22=Label(objse,text=' GRAPHIC USER INTERFACE makes user easy to interact with systems',font=('arial',30,'italic'),fg='grey',bg='black')
         lb22.place(x=30,y=300)
 
-        lb22=Label(objse,text=' If you want to get laid, go to college. If you want an education, go to the library',font=('arial',20,'bold'),fg='blue',bg='black')
+        lb22=Label(objse,text='If you want an education, go to the library',font=('arial',20,'bold'),fg='blue',bg='black')
         lb22.place(x=20,y=650)
 
 
@@ -1055,7 +1055,7 @@ def run():
          
         lb717.place(x=1150,y=670)
       
-        lb718=Label(obj7,text='Deepak Singh ',font=('arial',13,'bold'),fg='blue' ,bg='black')
+        lb718=Label(obj7,text='Abhishek Negi Akshat Badhani Aman Singh ',font=('arial',13,'bold'),fg='blue' ,bg='black')
          
         lb718.place(x=1150,y=690)
     
